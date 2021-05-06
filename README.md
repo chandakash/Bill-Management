@@ -5,7 +5,7 @@
 React based Bill management Dashboard
 
 ## Preview
-![](preview.gif)
+![](preview.png)
 
 ## View
 Deployed on heroku
