@@ -1,30 +1,32 @@
-# Getting Started with Create React App
+# Bill Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
 
-## Available Scripts
+React based Bill management Dashboard
 
-In the project directory, you can run:
+## Preview
+![](preview.gif)
 
-### `npm start`
+## View
+Deployed on heroku
+To view Deployed App [click here](https://bill-management-react.herokuapp.com/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Example:  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-### `npm test`
+Installation:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm install`  
 
-### `npm build`
+To Run Test Suite:  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm test`  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To Start Server:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`npm start`  
+
+To Visit App:
+
+`localhost:3000/ideas`  
